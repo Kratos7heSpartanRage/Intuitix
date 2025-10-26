@@ -3,7 +3,7 @@
 INTUITIX is an intelligent AI-powered platform designed to provide comprehensive analysis of written content and code. Leveraging advanced language models and sophisticated algorithms, INTUITIX offers detailed feedback, plagiarism detection, and quality assessment for academic, professional, and personal projects.
 
 ## 🚀 Features
-### ✍️ Write-up Analysis
+### ✍️ Write-up Analysis 
 1. Grammar Scoring: Detailed evaluation of grammatical accuracy and syntax
 2. Clarity Assessment: Analysis of writing clarity and readability
 3. Structure Evaluation: Assessment of logical flow and organization
